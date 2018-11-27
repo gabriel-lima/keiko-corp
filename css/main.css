@@ -11,7 +11,6 @@
 
 }
 
-
 @font-face {
     font-family: 'open_bold';
     src: url('../fonts/opensans-bold.eot');
@@ -24,7 +23,6 @@
 
 }
 
-
 @font-face {
     font-family: 'open_semibold';
     src: url('../fonts/opensans-semibold.eot');
@@ -36,12 +34,6 @@
     font-style: normal;
 
 }
-
-
-
-
-
-
 
 section, footer {
 	background: #fffcfc;
@@ -62,15 +54,6 @@ a:focus{
 .container{
 	max-width: 1130px;
 }
-
-
-
-
-
-
-
-
-
 
 /*		Header 		*/
 
@@ -184,15 +167,6 @@ header .social li{
 header .social li:first-child{
 	margin: 0;
 }
-
-
-
-
-
-
-
-
-
 
 /*		Hero section 		*/
 
@@ -318,7 +292,6 @@ a.app_link{
 	-webkit-transition: all .2s linear;
 }
 
-
 .about_video{
     position: fixed;
     top: 0;
@@ -356,14 +329,6 @@ a.app_link{
 }
 
 
-
-
-
-
-
-
-
-
 /*		Featured on section 		*/
 
 .featured_on{
@@ -384,14 +349,6 @@ a.app_link{
 .featured_on li:first-child{
 	margin-left: 0;
 }
-
-
-
-
-
-
-
-
 
 
 /*		About section 		*/
@@ -482,15 +439,6 @@ a.app_link{
 	display: inline-block;
 }
 
-
-
-
-
-
-
-
-
-
 /*		App features 		*/
 
 .app_features{
@@ -527,15 +475,6 @@ a.app_link{
 .app_features .details:nth-child(3n+1){
 	clear: both;
 }
-
-
-
-
-
-
-
-
-
 
 /*		Testimonials section 		*/
 
@@ -633,15 +572,6 @@ a.app_link{
 #tslider .owl-controls .owl-next:hover{
 	background-position: -33px 0;
 }
-
-
-
-
-
-
-
-
-
 
 /*		Subscription section 		*/
 
@@ -742,15 +672,6 @@ a.app_link{
 	display: none;
 }
 
-
-
-
-
-
-
-
-
-
 /*		Footer 		*/
 
 footer{
@@ -778,14 +699,6 @@ footer .copyright a{
 	color: #565555;
 }
 
-
-
-
-
-
-
-
-
 /*		Responsive CSS 		*/
 
 @media (max-width: 360px) {
@@ -796,8 +709,6 @@ footer .copyright a{
 }
 
 @media (max-width: 767px) {
-
-
 	/*		Header 		*/
 	header .logo{
 		margin-right: 0;
@@ -820,7 +731,6 @@ footer .copyright a{
 	header nav.show{
 		display: block;
 	}
-
 
 	header nav li{
 		display: block;
@@ -848,11 +758,6 @@ footer .copyright a{
 		margin-left: 10px;
 	}
 
-
-
-
-
-
 	/*		Hero section 		*/
 	.hero .caption{
 		margin-left: 0;
@@ -866,10 +771,6 @@ footer .copyright a{
 		text-align: center;
 	}
 
-
-
-
-
 	/*		Featured on section		*/
 	.featured_on{
 		padding: 25px 0 5px 0!important;
@@ -878,11 +779,6 @@ footer .copyright a{
 	.featured_on ul li{
 		margin-bottom: 25px!important;
 	}
-
-
-
-
-
 
 	/*		About Section 		*/
 	.about .features_list {
@@ -904,11 +800,6 @@ footer .copyright a{
 		display: block;
 		margin-top: 20px;
 	}
-
-
-
-
-
 
 	/*		Subscription section 		*/
 	.sub_box #mc-email,
